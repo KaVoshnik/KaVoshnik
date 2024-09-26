@@ -6,10 +6,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KaVoshnik" alt="KaVoshnik" /></a> </p>
 
-<h3>My streak:</h3>
+<h3>My GitHub streak:</h3>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KaVoshnik&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<h3>My Leetcode</h3>
+<h3>My Leetcode progress:</h3>
 
 <img src="https://leetcard.jacoblin.cool/Kavoshnik?theme=dark" />
