@@ -6,7 +6,7 @@
 
 <h3>My GitHub streak:</h3>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KaVoshnik&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KaVoshnik&theme=radical&background=000000)](https://git.io/streak-stats)
 
 <h3>My Leetcode progress:</h3>
 
