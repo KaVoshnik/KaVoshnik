@@ -4,10 +4,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaVoshnik&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>My GitHub streak:</h3>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KaVoshnik&theme=radical&background=000000)](https://git.io/streak-stats)
-
 <h3>My Leetcode progress:</h3>
 
 <img src="https://leetcard.jacoblin.cool/Kavoshnik?theme=dark" />
