@@ -1,4 +1,7 @@
 <h1 align="center">Sup, I'm KaVoshnik</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Ingiborg+Incorporated.)](https://git.io/typing-svg)
+
 <h3 align="center"><a href="https://emoji.gg/emoji/11351-slime-bocchi"><img src="https://cdn3.emoji.gg/emojis/11351-slime-bocchi.png" width="24px" height="24px" alt="slime_bocchi"></a>I like Bocchi the rock!<a href="https://emoji.gg/emoji/11351-slime-bocchi"><img src="https://cdn3.emoji.gg/emojis/11351-slime-bocchi.png" width="24px" height="24px" alt="slime_bocchi"></a></h3>
 <h4 align="center">And codding a lot projects...</h4>
 
