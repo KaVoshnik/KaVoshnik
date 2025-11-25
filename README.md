@@ -5,8 +5,6 @@
 <h5 align="center">I'm currently studying C and I'm working on an operating system called MyOs.</h5>
 <h5 align="center">I'm student of 21 SCHOOL</h5>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaVoshnik&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <h3>My Leetcode progress:</h3>
 
 <img src="https://leetcard.jacoblin.cool/Kavoshnik?theme=dark" />
