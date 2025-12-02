@@ -1,12 +1,16 @@
-<h1 align="center">Sup, I'm KaVoshnik</h1>
+Hey there!
 
-<h3 align="center"><a href="https://emoji.gg/emoji/11351-slime-bocchi"><img src="https://cdn3.emoji.gg/emojis/11351-slime-bocchi.png" width="24px" height="24px" alt="slime_bocchi"></a>I like Bocchi the rock!<a href="https://emoji.gg/emoji/11351-slime-bocchi"><img src="https://cdn3.emoji.gg/emojis/11351-slime-bocchi.png" width="24px" height="24px" alt="slime_bocchi"></a></h3>
-<h4 align="center">And codding a lot of projects...</h4>
-<h5 align="center">I'm currently studying C and I'm working on an operating system called MyOs.</h5>
-<h5 align="center">I'm student of 21 SCHOOL</h5>
+I’m Kirill, 19, a 4th-year college student. I’m currently working on two main projects:
+- The frontend part of a private web application (my diploma project)
+-  MyOS — my own operating system, built from scratch in C and x86 assembly
 
-<h3>My Leetcode progress:</h3>
+My main tools: VS Code, Git, GitHub, GCC, NASM. I also use AI models to accelerate development and research.
 
-<img src="https://leetcard.jacoblin.cool/Kavoshnik?theme=dark" />
+You can reach me at:
+- 📧 hikkan008@gmail.com
+- 💬 Telegram: @Kavoshn1k
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Ingiborg+Incorporated.)](https://git.io/typing-svg)
+Fun Facts:
+- I run a self-configured home server on Android TV
+- I collect achievements everywhere — games, GitHub, life — especially if they have cool badges or icons
+- I don’t drink alcohol or smoke. But I can easily drink 3 energy drinks per day
