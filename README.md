@@ -13,7 +13,7 @@ I also use AI models to accelerate development and research.
 - 💬 Telegram: @Kavoshn1k
 
 ### My projects
-- [x] The front-end portion of a project management platform for a college
+- [x] The front-end portion of a [project management platform](https://github.com/Avairon/projectsWMS) for a college
 
 ### Fun Facts:
 - I run a self-configured home server on Android TV
