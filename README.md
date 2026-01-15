@@ -1,7 +1,7 @@
 ### Hey there!
 
-I’m Kirill, 19, a 4th-year college student. I’m currently working on two main projects:
-- The frontend part of a private web application (my diploma project)
+I’m Kirill, 19, a 4th-year college student. I’m currently working on my main project:
+
 -  [MyOS](https://kavoshnik.github.io/) — my own operating system, built from scratch in C and x86 assembly
 
 ### My main tools: 
@@ -11,6 +11,9 @@ I also use AI models to accelerate development and research.
 ### You can reach me at:
 - 📧 hikkan008@gmail.com
 - 💬 Telegram: @Kavoshn1k
+
+### My projects
+- [x] The front-end portion of a project management platform for a college
 
 ### Fun Facts:
 - I run a self-configured home server on Android TV
