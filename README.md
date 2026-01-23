@@ -13,7 +13,7 @@ I also use AI models to accelerate development and research.
 - 📧 hikkan008@gmail.com
 - 💬 Telegram: @Kavoshn1k
 
-### My projects
+### My completed projects:
 - [x] The front-end portion of a [project management platform](https://github.com/Avairon/projectsWMS) for a college
 
 ### Fun Facts:
