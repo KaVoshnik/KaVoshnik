@@ -2,7 +2,8 @@
 
 I’m Kirill, 19, a 4th-year college student. I’m currently working on my main project:
 
--  [MyOS](https://kavoshnik.github.io/) — my own operating system, built from scratch in C and x86 assembly
+- The front-end portion of an information kiosk system for a hospital(private project)
+- [MyOS](https://kavoshnik.github.io/) — my own operating system, built from scratch in C and x86 assembly
 
 ### My main tools: 
 VS Code, Git, GitHub, GCC, NASM.  
