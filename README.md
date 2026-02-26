@@ -18,4 +18,4 @@ I also use AI models to accelerate development and research.
 ### Fun Facts:
 - I run a self-configured home server on Android TV
 - I collect achievements everywhere — games, GitHub, life — especially if they have cool badges or icons
-- I don’t drink alcohol or smoke. But I can easily drink 3 energy drinks per day
+- I don’t drink alcohol or smoke.
