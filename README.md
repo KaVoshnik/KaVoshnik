@@ -1,4 +1,4 @@
-### Hey there! 👋
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7FFFD4&center=false&vCenter=true&width=600&lines=Hey+there!+%F0%9F%91%8B;Building+things+from+scratch)](https://git.io/typing-svg)
 
 I'm Kirill, a developer who enjoys building things from scratch and learning how systems work under the hood.
 
