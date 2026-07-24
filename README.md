@@ -41,3 +41,7 @@ I also use AI tools as development assistants for prototyping, debugging and res
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaVoshnik&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=A78BFA" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <img src="https://kavoshnik.github.io/KaVoshnik/github-snake-dark.svg" alt="Snake animation" />
+</p>
