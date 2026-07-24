@@ -17,7 +17,6 @@ I like working on projects where I can understand the whole stack — from low-l
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3EB489?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-3EB489?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-3EB489?style=for-the-badge&logo=linux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-3EB489?style=for-the-badge&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-3EB489?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-3EB489?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
