@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7FFFD4&center=false&vCenter=true&width=600&lines=Hey+there!+%F0%9F%91%8B;Building+things+from+scratch)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7FFFD4&center=false&vCenter=true&width=600&lines=Hey+there!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 I'm Kirill, a developer who enjoys building things from scratch and learning how systems work under the hood.
 
@@ -11,15 +11,15 @@ I like working on projects where I can understand the whole stack — from low-l
 
 ### My main tools:
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Java](https://img.shields.io/badge/Java-3EB489?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-3EB489?style=for-the-badge&logo=javascript&logoColor=1E1E2E)
+![Node.js](https://img.shields.io/badge/Node.js-3EB489?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3EB489?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-3EB489?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-3EB489?style=for-the-badge&logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-3EB489?style=for-the-badge&logo=windows&logoColor=white)
+![Git](https://img.shields.io/badge/Git-3EB489?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-3EB489?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 I also use AI tools as development assistants for prototyping, debugging and research.
 
@@ -38,3 +38,7 @@ I also use AI tools as development assistants for prototyping, debugging and res
 - 🏆 I collect achievements everywhere — games, GitHub, and real life (especially when they have cool badges or icons)
 - 🚫 I don't drink alcohol or smoke
 - 🔧 I enjoy rebuilding things from zero just to understand how they work
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaVoshnik&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=A78BFA" alt="GitHub Streak" />
+</p>
